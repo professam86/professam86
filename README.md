@@ -1,4 +1,4 @@
-- 👋 Hi, I’m mohamad sam
+- 👋 Hi, I’m sam
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python advance
 - 💞️ I’m looking to collaborate on python projects
